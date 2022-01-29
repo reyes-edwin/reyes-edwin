@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Edwin Reyes
 - 👀 I’m interested in UX/UI design.
-- 🌱 I’m currently learning Java, and the fundamentals of HCDD.
-- 💞️ I’m looking to collaborate on ...
+- 👨🏼‍💻 I’m currently learning Java, and the fundamentals of HCDD.
 - 📫 How to reach me reyesedwin2022@gmail.com
 
 <!---
